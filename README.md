@@ -1,1 +1,1 @@
-# MSE18-ObserverPattern-Server
+# MSE-ObserverPattern-Server
